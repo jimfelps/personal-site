@@ -18,7 +18,7 @@ theme = "aerial"
 
 [[params.social]]
   medium = "Strava"
-  icon = "strava"
+  icon = "running"
   link = "https://www.strava.com/athletes/3530367"
 
 [[params.social]]
