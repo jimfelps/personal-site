@@ -17,6 +17,11 @@ theme = "aerial"
   link = "https://twitter.com/Calvinchoice"
 
 [[params.social]]
+  medium = "Strava"
+  icon = "strava"
+  link = "https://www.strava.com/athletes/3530367"
+
+[[params.social]]
   medium = "Blog"
   icon = "pencil"
   link = "#"
